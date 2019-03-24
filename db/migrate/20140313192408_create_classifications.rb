@@ -7,3 +7,4 @@ class CreateClassifications < ActiveRecord::Migration
     end
   end
 end
+ 
